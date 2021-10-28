@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-- Supplemented contract bid after improving loan quality random forest classification from 68% to 86%, employing feature engineering techniques such as Deep Feature Synthesis with Pandas/scikit-learn
+  - Supplemented contract bid after improving loan quality random forest classification from 68% to 86%, employing feature engineering techniques such as Deep Feature Synthesis with Pandas/scikit-learn
 
 <p align='center'>
     <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
