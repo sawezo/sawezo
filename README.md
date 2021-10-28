@@ -41,13 +41,12 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     </p>
-
-    - Supplemented contract bid after improving loan quality random forest classification from 68% to 86%, employing feature engineering techniques such as Deep Feature Synthesis with Pandas/scikit-learn
-
-      <p align='center'>
-          <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </p>
+  - Supplemented contract bid after improving loan quality random forest classification from 68% to 86%, employing feature engineering techniques such as Deep Feature Synthesis with Pandas/scikit-learn
+  
+    <p align='center'>
+        <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </p>
 
 
 - 👨‍💻 **iD Tech MIT AI Academy, Instructor**\
