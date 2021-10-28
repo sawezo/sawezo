@@ -1,33 +1,27 @@
 <h1 align='center'>
-  aye! I'm Sam.
+  sam i am 
 </h1>
+
 
 <p align='center'>
   ~ Python specialist with interests in Data Science & Engineering ~
 </p>
-
-
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/samuel-zonay/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:samuel.zonay@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p align='center'>
-  💻 my workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+---
 
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:samuel.zonay@gmail.com'>samuel.zonay@gmail.com</a>
-</p>
+
 
 <details>
   <summary>📃 Resume</summary>
-
-
 ## Education
 
 - 📖 **Web Development**\
@@ -39,9 +33,10 @@
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - moment\
-📍 **Avanade** - São Paulo/SP, Brazil
+  📆 2021 - moment\
+  📍 **Avanade** - São Paulo/SP, Brazil
   
+
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
@@ -84,7 +79,7 @@
 
 <!-- <details>
   <summary>📦 Packages</summary>
-  
+
   
 
 | Name                 | A short summary                              | Install   | Downloads |
