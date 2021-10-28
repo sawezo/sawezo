@@ -29,11 +29,11 @@
 
 ## Experience
 
-- 👨‍💻 **Rotunda Solutions, Data Scientist\
+- 👨‍💻 **Rotunda Solutions, Data Scientist**\
   📆 May 2019 - Present\
-  📍 **Remote**
+  📍 Remote
   
-  - Data scientist on team of four leveraging Python to support data collection, processing and machine learning tasks 
+  - *Data scientist on team of four leveraging Python to support data collection, processing and machine learning tasks* 
   
   - Overhauled entity recognition processes with graph modeling (MongoDB/networkx), boosting potential conflict of interest count >167%
   
@@ -52,9 +52,9 @@
 
 - 👨‍💻 **iD Tech MIT AI Academy, Instructor**\
   📆 Summer 2019\
-  📍 **Cambridge, Mass**
+  📍 Cambridge, Mass
   
-  - Inspired interests of >40 students in machine/deep through custom lessons in Keras, scikit-learn and NumPy 
+  - Inspired >40 students in their machine/deep learning pursuits through custom lessons in Keras, scikit-learn and NumPy 
   
     <p align='center'>
         <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
@@ -67,9 +67,9 @@
 
 ## Education
 
-- 📍 **University of Vermont** - College of Engineering and Mathematics
-  - 📖 **M.S., Data Science and Complex Systems**\
+- 📍 **University of Vermont**
+  - 📖 M.S., Data Science and Complex Systems\
     📆 2018- 2019
-  - 📖 **B.S., Mathematics and Computer Science (Major/Minor)**\
+  - 📖 B.S., Mathematics and Computer Science (Major/Minor)\
     📆 2014 - 2018
     </details>
