@@ -16,9 +16,9 @@
 </p>
 
 
+
+
 ---
-
-
 
 
 
@@ -27,13 +27,11 @@
 
 
 
-
-
 ## Experience
 
-- 👨‍💻 **Rotunda Solutions, Data Science**
-  📆 May 2019 - Present
-  📍 **Remote**
+- 👨‍💻 **Rotunda Solutions, Data Science**\
+  📆 May 2019 - Present\
+  📍 **Remote**\
   - Data scientist on team of four leveraging Python to support data collection, processing and machine learning tasks 
   - Overhauled entity recognition processes with graph modeling (MongoDB/networkx), boosting potential conflict of interest count >167%
 
@@ -50,9 +48,9 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-- 👨‍💻 **iD Tech MIT AI Academy, Instructor**
-  📆 Summer 2019
-  📍 **Cambridge, Mass**
+- 👨‍💻 **iD Tech MIT AI Academy, Instructor**\
+  📆 Summer 2019\
+  📍 **Cambridge, Mass**\
   - Inspired interests of >40 students in machine/deep through custom lessons in Keras, scikit-learn and NumPy 
 
 <p align='center'>
@@ -65,9 +63,9 @@
 
 ## Education
 
-- 📍 **University of Vermont** - College of Engineering and Mathematics
-  - 📖 **M.S., Data Science and Complex Systems**
-    📆 2018- 2019
-  - 📖 **B.S., Mathematics and Computer Science (Major/Minor)**
+- 📍 **University of Vermont** - College of Engineering and Mathematics\
+  - 📖 **M.S., Data Science and Complex Systems**\
+    📆 2018- 2019\
+  - 📖 **B.S., Mathematics and Computer Science (Major/Minor)**\
     📆 2014 - 2018
     </details>
