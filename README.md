@@ -29,13 +29,14 @@
 
 ## Experience
 
-- 👨‍💻 **Rotunda Solutions, Data Science**\
+- 👨‍💻 **Rotunda Solutions, Data Scientist\
   📆 May 2019 - Present\
   📍 **Remote**
+  
   - Data scientist on team of four leveraging Python to support data collection, processing and machine learning tasks 
-
+  
   - Overhauled entity recognition processes with graph modeling (MongoDB/networkx), boosting potential conflict of interest count >167%
-
+  
     <p align='center'>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
