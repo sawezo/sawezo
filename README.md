@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-  ~ Python specialist with interests in Data Science/Engineering ~
+  ~ hiya ~
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/samuel-zonay/">
