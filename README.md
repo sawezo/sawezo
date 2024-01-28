@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-  ~ hiya ~
+    “I don’t intend to build in order to have clients. I intend to have clients in order to build."
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/samuel-zonay/">
